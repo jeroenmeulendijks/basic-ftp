@@ -1,6 +1,6 @@
 # Basic FTP
 
-This is a fork of https://www.npmjs.com/package/basic-ftp with proxy support created by https://www.npmjs.com/package/@jc-lab/basic-ftp.
+This is a fork of https://www.npmjs.com/package/basic-ftp with proxy support created by https://www.npmjs.com/package/@jc-lab/basic-ftp. (See pull request https://github.com/patrickjuchli/basic-ftp/pull/147 for details)
 
 [![Build Status](https://travis-ci.org/patrickjuchli/basic-ftp.svg?branch=master)](https://travis-ci.org/patrickjuchli/basic-ftp) [![dependencies](https://img.shields.io/david/patrickjuchli/basic-ftp)](https://david-dm.org/patrickjuchli/basic-ftp) [![npm version](https://img.shields.io/npm/v/basic-ftp.svg)](https://www.npmjs.com/package/basic-ftp)
 
