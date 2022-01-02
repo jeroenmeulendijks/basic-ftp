@@ -784,7 +784,7 @@ export class Client {
                     this.prepareTransfer = transferMode // eslint-disable-line require-atomic-updates
                     return res
                 }
-                catch(err) {
+                catch(err: any) {
                     // Try the next candidate no matter the exact error. It's possible that a server
                     // answered incorrectly to a strategy, for example a PASV answer to an EPSV.
                     ftp.log(`Transfer mode failed: "${err.message}", will try next.`)
