@@ -12,7 +12,7 @@ Prefer alternative transfer protocols like HTTPS or SFTP (SSH). Use this library
 
 ## Dependencies
 
-Node 8.0 or later is the only dependency.
+Node 12.0 or later is the only dependency.
 
 ## Introduction
 

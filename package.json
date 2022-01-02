@@ -1,6 +1,6 @@
 {
-  "name": "@jeroenmeulendijks/basic-ftp",
-  "version": "4.6.6",
+  "name": "@specifai-net/basic-ftp",
+  "version": "5.0.0",
   "description": "FTP client for Node.js, supports FTPS over TLS, IPv6, Async/Await, and Typescript.",
   "main": "dist/index",
   "types": "dist/index",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jeroenmeulendijks/basic-ftp.git"
+    "url": "https://github.com/specifai-net/basic-ftp.git"
   },
   "author": "Patrick Juchli <patrickjuchli@gmail.com>",
   "license": "MIT",
